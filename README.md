@@ -17,3 +17,7 @@
 
 - Run the server
     > python manage.py runserver
+
+- Git commands
+   > step1:Make a clone of project
+        >>command-->  git clone <url link of reprosetery>
