@@ -1,6 +1,5 @@
 ### Pixify
 ****************
-
 - Create virtual env
 
     > python -m venv venv
