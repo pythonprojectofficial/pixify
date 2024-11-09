@@ -31,3 +31,9 @@ class SpecificUserTreatment(Enum):
 class ChatType(Enum):
     PERSONAL = 1
     GROUP = 2
+
+class RelationShipStatus(Enum):
+    SINGLE = 1
+    MARRIED = 2
+    DIVORCED = 3
+    COMMITTED = 4
